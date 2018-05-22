@@ -1,0 +1,8 @@
+jupyter==1.0.0
+matplotlib==2.2.2
+numpy==1.14.2
+pip==9.0.1
+scipy==1.0.1
+setuptools==28.8.0
+soundfile==0.10.1
+https://github.com/fo40225/tensorflow-windows-wheel/blob/master/1.8.0/py36/CPU/avx2/tensorflow-1.8.0-cp36-cp36m-win_amd64.whl?raw=true#egg=tensorflow
